@@ -1,0 +1,5 @@
+"ICD10","ICD10_Desc_x","ICD9","ICD9_Desc_x","APPROX_x","NOMAP_x","COMBO_x","SCENARIO_x","CHOICE_x","OBSOLETE_x","ICD10_Desc_y","ICD9_Desc_y","APPROX_y","NOMAP_y","COMBO_y","SCENARIO_y","CHOICE_y","CATEGORY","OBSOLETE_y"
+"R40.241","Glasgow coma scale score 13-15","###","###","1","1","0","0","0","1","","","","","","","","",""
+"R40.242","Glasgow coma scale score 9-12","###","###","1","1","0","0","0","1","","","","","","","","",""
+"R40.243","Glasgow coma scale score 3-8","###","###","1","1","0","0","0","1","","","","","","","","",""
+"R40.244","Oth coma,w/o Glasgow coma scale score,or w/part score report","###","###","1","1","0","0","0","1","","","","","","","","",""
